@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 #banner {
-    width: 500px;
+    width: 100%;
     height: auto;
     background-color: white;
 }
@@ -84,3 +84,14 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+#holiday 
+    {
+        width: 100%;
+        padding: 25px;
+        color: orange;
+        background-color: black;
+    }
+.highlight 
+    {
+        color: red;
+    }
